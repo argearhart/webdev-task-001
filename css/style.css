@@ -1,0 +1,43 @@
+body { 
+    font-family: Arial, sans-serif;
+    margin: 30;
+    background-color:rgb(178, 194, 233);
+    padding: 20;
+    color: rgb(0, 0, 0);
+
+}
+
+
+section {
+   
+
+}
+
+
+h1 {
+    color:midnightblue
+    
+}
+
+h2 {
+    color:rgb(43, 95, 226)
+}
+
+h3 {
+    color:darkblue
+}
+
+h4 {
+    color:rgb(102, 16, 231)
+}
+
+h5 {
+    color:rgb(50, 86, 204)
+}
+
+p {
+    color:rgb(60, 41, 104)
+}
+li {
+    color:rgb(60, 77, 101)
+}
